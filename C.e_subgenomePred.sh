@@ -3,7 +3,7 @@
 #  SubArabica.predition.sh
 #
 #
-#  Created by John Joyce on 23/01/2021.
+#  Created by THCRibeiro on 23/01/2021.
 #
 mkdir subEugenioides
 cd subEugenioides
